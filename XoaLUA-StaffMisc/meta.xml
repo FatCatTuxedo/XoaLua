@@ -1,0 +1,7 @@
+<meta>
+    <script src="cheats.lua" type="client"/>
+    <script src="jump.lua" type="client"/>
+    <script src="superman.lua" type="client"/>
+    <script src="superman.slua" type="server"/>
+	<script src="chats.lua" type="server"/>
+</meta>

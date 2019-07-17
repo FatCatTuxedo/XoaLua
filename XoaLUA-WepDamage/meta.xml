@@ -1,0 +1,4 @@
+<meta>
+  <info author="Junx" name="Weapon Damage" type="misc" /> 
+  <script src="server.lua" type="server" />
+</meta>

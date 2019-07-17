@@ -1,0 +1,6 @@
+<meta>
+    <info author="IaM" version="1.0" type="script"/>
+	<script src="script.lua" type="client" />
+	<file src="s211.txd" />
+	<file src="s211.dff" />
+</meta>
