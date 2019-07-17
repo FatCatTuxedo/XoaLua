@@ -1,0 +1,6 @@
+<meta>
+    <info author="ZoLo and [Fx]GhOsT" name="Stinger" version="1.0" type="script"/>
+    <script src="stinger_client.lua" type="client" />
+	<script src="stinger_server.lua" type="server" />
+	<file src="plant.wav" />
+</meta>
